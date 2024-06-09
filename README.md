@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Vishmi Dulanjalee.
 
-👀 I’m interested in technology, coding, testing and pscycological environment.
+👀 I’m interested in technology, coding, testing and psychological environment.
 
 🌱 I’m currently learning Java Springboot and Machine learning aspects.
 
